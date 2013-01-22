@@ -1,0 +1,8 @@
+Slim Color Theme for Emacs
+
+(require 'color-theme)
+(load-file "~/.emacs.d/color-theme-slim.el")
+
+And then (color-theme-slim) to activate it.
+
+GPLv3 License Copyright (c) 2013 Anrs Hu <anders.x.hu@gmail.com>
